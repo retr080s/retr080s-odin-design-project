@@ -73,8 +73,8 @@ h1 {
     display: block;
     text-align: center;
     width: 110px;
-    border: none;
-    background: #801336;
+    background: #C72C41;
+    border-color: #C72C41;
     padding: 10px;
     border-radius: 15px;
     color: #fff;
@@ -85,6 +85,7 @@ h1 {
     width: 500px;
     height: 350px;
     border-radius: 5%;
+    filter: drop-shadow(10px 5px 10px #222222)
 }
 
 /* Content */
@@ -106,6 +107,7 @@ h1 {
     object-fit: cover;
     border-radius: 15%;
     margin: 5px 20px 0px 20px;
+    filter: drop-shadow(10px 5px 10px #222222)
 }
 
 .content p {
@@ -139,13 +141,14 @@ h1 {
 /* Sign Up Part */
 
 .sign-up {
-    background-color: #801336;
+    background-color: #ff4992;
     margin: 50px 200px;
     padding: 10px 80px;
     display: flex;
     align-items: center;
     border-radius: 15px;
     border-color: none;
+    filter: drop-shadow(10px 5px 10px #222222)
 }
 
 .sign-item {
