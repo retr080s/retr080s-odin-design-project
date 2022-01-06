@@ -1,0 +1,23 @@
+/* * {
+
+} */
+
+.hero {
+    background-color: #1F2937;
+    width: auto;
+    height: 80px;
+    display: block;
+}
+
+.hero-text {
+    text-align: right;
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+
+.logo {
+    text-align: left;
+    font-size: 24px;
+    color: #F9FAF8;
+}
