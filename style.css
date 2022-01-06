@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(255,73,146,1) 100%);
     font-family: 'Roboto', arial;
     padding: 0;
     margin: 0;
@@ -15,7 +15,7 @@ body {
 .navbar {
     display: flex;
     color: #F9FAF8;
-    background-color: #1F2937;
+    background-color: #2D142C;
     height: 80px;
     align-items: center;
 }
@@ -45,7 +45,6 @@ body {
 .hero {
     display: flex;
     color: #F9FAF8;
-    background-color: #1F2937;
     align-items: left;
     justify-content: center;
     padding: 20px;
@@ -76,7 +75,7 @@ h1 {
     text-align: center;
     width: 110px;
     border: none;
-    background: #3882f6;
+    background: #801336;
     padding: 10px;
     border-radius: 8px;
     color: #fff;
@@ -121,7 +120,6 @@ h1 {
 .quote {
     display: flex;
     flex-direction: column;
-    background-color: #222222;
     padding: 0 200px;
 }
 
@@ -143,7 +141,7 @@ h1 {
 /* Sign Up Part */
 
 .sign-up {
-    background-color: #3882F6;
+    background-color: #801336;
     margin: 50px 200px;
     padding: 10px 80px;
     display: flex;
@@ -176,9 +174,16 @@ h3 {
 .signs-button button {
     color: #fff;
     font-family: 'Roboto', arial;
-    border-color: #fff;
     border-radius: 8%;
-    background-color: #3882F6;
+    background-color: #C72C41;
     padding: 5px 25px;
     font-size: 15px;
+}
+
+/* Footer */
+
+.footer {
+    background-color: #2D142C;
+    color: #fff;
+    font-family: 'Roboto', arial;
 }
