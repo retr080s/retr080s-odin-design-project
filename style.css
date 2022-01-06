@@ -15,7 +15,6 @@ body {
 .navbar {
     display: flex;
     color: #F9FAF8;
-    background-color: #2D142C;
     height: 80px;
     align-items: center;
 }
@@ -30,14 +29,14 @@ body {
 .header-link {
     display: flex;
     margin-left: auto;
-    padding: 0px 100px 0px 0px;  
+    padding: 0px 220px 0px 0px;  
 }
 
 .header-link a {
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
-    padding: 10px;
+    padding: 50px;
     font-family: 'Roboto', arial;
 }
 /* Hero */
@@ -50,14 +49,14 @@ body {
     padding: 20px;
 }
 
-.hero-cta {
+.hero-content {
     flex-basis: 800px;
     display: flex;
     flex-direction: column;
     text-align: left;
 }
 
-.hero-cta p {
+.hero-content p {
     font-family: 'Roboto', arial;
     opacity: 0.7;
 }
@@ -77,10 +76,8 @@ h1 {
     border: none;
     background: #801336;
     padding: 10px;
-    border-radius: 8px;
+    border-radius: 15px;
     color: #fff;
-    font-family: 'Roboto', arial;
-    text-decoration: none;
     font-weight: bold;
 }
 
@@ -94,6 +91,7 @@ h1 {
 
 .content {
     align-items: center;
+    color: #ffffff;
 }
 
 .content-info {
@@ -106,13 +104,12 @@ h1 {
     width: 200px;
     height: 200px;
     object-fit: cover;
-    border: 4px solid #3882F9;
     border-radius: 15%;
     margin: 5px 20px 0px 20px;
 }
 
 .content p {
-    color: cyan;
+    color: #ffffff;
 }
 
 /* Quotation Part */
@@ -125,7 +122,7 @@ h1 {
 
 .quote p {
     font-size: 36px;
-    color: #1F2937;
+    color: #ffffff;
     font-style: italic;
     font-weight: lighter;
     font-family: 'Roboto', arial;
@@ -136,6 +133,7 @@ h1 {
     padding-right: 10px;
     font-family: 'Roboto', arial;
     text-align: right;
+    color: #ffffff;
 }
 
 /* Sign Up Part */
@@ -174,16 +172,17 @@ h3 {
 .signs-button button {
     color: #fff;
     font-family: 'Roboto', arial;
-    border-radius: 8%;
+    font-weight: bold;
+    border-radius: 15%;
     background-color: #C72C41;
     padding: 5px 25px;
     font-size: 15px;
+    border-color: #C72C41;
 }
 
 /* Footer */
 
 .footer {
-    background-color: #2D142C;
-    color: #fff;
+    color: #2D142C;
     font-family: 'Roboto', arial;
 }
