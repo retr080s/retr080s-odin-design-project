@@ -1,4 +1,8 @@
 # retr080s-odin-design-project
+Arcade Library
+
+![Screenshot 2022-01-06 at 22-27-06 Arcade Library Back to 80s](https://user-images.githubusercontent.com/84463361/148454687-11d271ae-493a-489b-adb9-a935d17e9769.png)
+
 
 Credits:
 
@@ -12,3 +16,10 @@ Sonic picture used from : https://external-content.duckduckgo.com/iu/?u=https%3A
 
 Tetris picture used from : https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.o1Av1eFzgDgTfWCh6ddy7wHaEK%26pid%3DApi&f=1
 
+Font used for logo: Lazer84
+
+Note of the author
+Lazer 84 is a retro style brush font inspired in 80's.
+This font include numbres, simbols and accents.
+Purchase (Pay what you want) a (OFL-1.1) commercial License via paypal from:
+http://sunrise-digital.net/
